@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/b7fafe4fe5fe7ec6025c287bfad6ad17/core-1.0.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/b7fafe4fe5fe7ec6025c287bfad6ad17/core-1.0.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

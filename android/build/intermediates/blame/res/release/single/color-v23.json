@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/2f5c4d15049a56a15bff8a54be629e46/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
+    }
+]

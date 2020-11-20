@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/b7fafe4fe5fe7ec6025c287bfad6ad17/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/b7fafe4fe5fe7ec6025c287bfad6ad17/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/b7fafe4fe5fe7ec6025c287bfad6ad17/core-1.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Data/GitHub-Projects/6-Pack-Promise/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/elitemobile/.gradle/caches/transforms-2/files-2.1/b7fafe4fe5fe7ec6025c287bfad6ad17/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
